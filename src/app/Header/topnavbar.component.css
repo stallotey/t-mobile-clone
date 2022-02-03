@@ -1,0 +1,131 @@
+
+    .navbar-white {
+      background: white;
+    }
+
+    .dropdown-menu[data-bs-popper] {
+      left: -63%;
+      padding-left: 2rem;
+      padding-right: 0rem;
+      padding-bottom: 1.5rem;
+    }
+
+    .support-menu {
+      right: 0rem;
+      padding-left: 1.0rem;
+      padding-right: 2.0rem;
+      padding-bottom: 1.5rem;
+    }
+
+    .btn-my_acct {
+
+      background: #e20074;
+      border-radius: 0rem;
+      padding: 1rem 2rem 1rem 2rem;
+    }
+
+    .center {
+      text-align: center;
+    }
+
+    .btn-login {
+
+      margin-left: 2.5rem;
+      margin-right: 2.5rem;
+      background: #e20074;
+      border-radius: 0rem;
+      padding: 1rem 5rem 1rem 5rem;
+    }
+
+    .btn-primary-my_acct {
+      padding-left: 3.5rem;
+      padding-right: 3.5rem;
+      font-size: 1.25rem;
+      border-radius: 0rem;
+      margin-left: 1.5rem;
+    }
+
+    .btn-primary-sub_menu {
+      padding-left: 0.0rem;
+      padding-right: 0.25rem;
+      font-size: 1.25rem;
+      border-radius: 0rem;
+      margin-left: 0.25rem;
+      margin-right: 0.5rem;
+      border-color: white;
+    }
+
+    .nav-bar-text {
+      background: white;
+      border-color: white;
+      color: black;
+      font-weight: 500;
+    }
+
+    .dropdown_support {
+      border-radius: 0rem;
+      margin-left: 0.25rem;
+      margin-right: 0.5rem;
+      background-color: white;
+      color: black;
+      border-color: white;
+      font-size: 1.25rem;
+      font-weight: 400;
+    }
+
+    .banner-text {
+      color: #6a6a6a;
+      background: #f6f6f6;
+      font-weight: 500;
+    }
+
+    .black {
+      color: black;
+      background-color: white;
+    }
+
+    .nav-universal_banner {
+      background: #f6f6f6;
+    }
+
+    .nav-news_banner {
+      background: #e20074;
+      color: white;
+      font-weight: 500;
+    }
+
+    .btn-primary-my_acct {
+      background: white;
+      margin: 0.5rem;
+    }
+
+    .card_text {
+      font-size: 3.5rem;
+    }
+
+    .card_text2 {
+      font-size: 4.5rem;
+    }
+    .card_text3 {
+       font-size: 7rem;
+    }
+
+    .btn-outline-primary {
+      color: black !important;
+      border-color: white !important;
+      background-color: transparent !important;
+    }
+    .btn-outline-primary-white {
+        color: #e20074 !important;
+        border-color: #e20074 !important;
+        background-color: white !important;
+      }
+      .btn-outline-primary-white2 {
+        color: #e20074 !important;
+        border-color: #e20074 !important;
+        background-color: white !important;
+      }
+    .credit-text {
+        bottom: -200rem;
+    }
+  
