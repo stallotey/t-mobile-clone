@@ -1,13 +1,13 @@
 export class ProductItemModel {
     img: string;
     price: number;
-    sku: string;
+    model: string;
     description: string;
 
-    constructor(img: string, price: number, sku: string, description: string) {
+    constructor(img: string, price: number, model: string, description: string) {
         this.img = img;
         this.price = price;
-        this.sku = sku;
+        this.model = model;
         this.description = description;
     }
 }
