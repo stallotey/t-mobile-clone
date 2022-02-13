@@ -1,20 +1,20 @@
 export const mock_product_list = [
     {
-        img: "iphone 11.jpeg",
-        price: 16.99,
-        model: "SKJFOJF",
-        description: "jsoanda"
+        img: "/assets/iphone 11.jpeg",
+        brand: "Apple",
+        model: "iPhone 11",
+        price: 499.99
     },
     {
-        img: "iphone-13-pro-max.jpeg",
-        price: 26.99,
-        model: "KGJdsJF",
-        description: "jsoanda"
+        img: "/assets/iphone-13.jpeg",
+        brand: "Apple",
+        model: "iPhone 13",
+        price: 799.99
     },
     {
-        img: "iphone-13.jpeg",
-        price: 36.99,
-        model: "FDSJFOJF",
-        description: "jsoanda"
+        img: "/assets/iphone-13-pro-max.jpeg",
+        brand: "Apple",
+        model: "iPhone 13 Pro Max",
+        price: 1099.99
     }
 ];

@@ -1,2 +1,2 @@
 1.1
-Restructed the product list to display card easliy with hard coding each card manually
+-Constructed a product list to display card easliy without hard coding each card manually

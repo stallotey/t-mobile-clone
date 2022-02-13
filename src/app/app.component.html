@@ -1,10 +1,12 @@
-<tm-topnavbar>Loading...</tm-topnavbar>
+<tm-topnavbar>Loading Nav Bar...</tm-topnavbar>
 
-<p>Welcome to T-Mobile!</p>
+<tm-contentbody> Loading Body Content...</tm-contentbody>
 
-<div class="card">
-    <div *ngFor="let product of products">
-        <img src={{product.img}} alt="">
+<div class="row">
+    <div class="col" *ngFor="let product of products">
+            <tm-vertical-card class="mx-2" img={{product.img}} brand={{product.brand}} model={{product.model}}
+                [price]='product.price'>
+            </tm-vertical-card>
+
     </div>
-
 </div>
