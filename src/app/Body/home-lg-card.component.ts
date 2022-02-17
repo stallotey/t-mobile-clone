@@ -1,11 +1,11 @@
 import { Component, Input } from "@angular/core";
 
 @Component({
-    selector: 'tm-contentbody',
-    templateUrl: 'body.component.html',
-    styleUrls: ['body.component.css']
+    selector: 'tm-large-cards',
+    templateUrl: 'home-lg-card.component.html',
+    styleUrls: ['home-lg-card.component.css']
 })
-export class BodyComponent {
+export class CardComponent {
     @Input()  img: string;
     price: number;
     sku: string;

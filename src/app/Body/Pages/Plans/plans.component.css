@@ -1,0 +1,59 @@
+.text {
+    text-align: center;
+    font-size: 5rem;
+}
+.banner {
+    padding: 1rem;
+    margin: 0.5rem;
+    text-align: center;
+    font-size: 5 rem;
+}
+.grid-container {
+    display: grid;
+    background-color: #fbfbfb;
+    padding: 10px;
+    margin: 15rem;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 2rem;
+    font-size: 1.5rem;
+    text-align: center;
+    text-align: center;
+  }
+
+  .h1 {
+      font-size: 7.5rem;
+  }
+  .h1-red {
+      font-size: 3.0rem;
+      color: #e20074;
+  }
+  .text-space {
+      padding-top: 10rem;
+  }
+  .bg-tm-plans{
+      background-image: url(/assets/Plans/family-tanwall-23-1102273.desktop-1.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      min-width: 100%;
+      min-height: 100%;
+      padding-bottom: 40rem;
+    
+  }
+  .text3{
+      font-size: 4.5rem;
+      color: white;
+      padding-top: 15rem;
+  }
+  .text4 {
+      font-size: 4.5rem;
+      color: white;
+  }
+  .bground{
+      background-color: #f8f8f8;
+  }
+ 
+ 

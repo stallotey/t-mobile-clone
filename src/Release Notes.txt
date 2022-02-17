@@ -1,2 +1,5 @@
 1.1
 -Constructed a product list to display card easliy without hard coding each card manually
+
+1.2
+-Added 5 routing links for Plans, Phone & Device, Contact & Support, Cart, My Account

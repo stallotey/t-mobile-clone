@@ -1,0 +1,40 @@
+.text-spacing {
+    padding-right: 5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0rem;
+    margin-bottom: 0rem;
+    font-size: 2.5rem;
+    margin-left: 20rem;
+    font-weight: bold;
+    
+}
+.btn-pad{
+    padding-right: 15rem;
+    padding-left: 10rem;
+    padding-top:2rem;
+    padding-bottom: 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.pad{
+    padding-left: 15rem;
+    padding-top: 0rem;
+    margin-top: 0rem;
+    margin-left: 5rem;
+    font-size: 1.2rem;
+}
+.text2{
+    font-size: 1.5rem;
+    padding-left: 20rem;
+    color: #e20074;
+    border: #e20074;
+}
+.img-center {
+    padding-left: 4rem;
+    margin-left:1rem;
+    
+
+}
+.text3{
+    padding-left: 20rem;
+}

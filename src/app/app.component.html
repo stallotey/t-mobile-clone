@@ -1,12 +1,12 @@
 <tm-topnavbar>Loading Nav Bar...</tm-topnavbar>
 
-<tm-contentbody> Loading Body Content...</tm-contentbody>
 
-<div class="row">
-    <div class="col" *ngFor="let product of products">
-            <tm-vertical-card class="mx-2" img={{product.img}} brand={{product.brand}} model={{product.model}}
-                [price]='product.price'>
-            </tm-vertical-card>
+<!-- <tm-large-cards> Loading Large Home Cards Content...</tm-large-cards> -->
 
-    </div>
-</div>
+<router-outlet></router-outlet>
+
+<!-- <h1 class="card_text2"> Shop our best-selling phones.</h1> -->
+<p></p>
+
+
+<tm-footer>Footer Contenet</tm-footer>
