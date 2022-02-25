@@ -3,3 +3,13 @@
 
 1.2
 -Added 5 routing links for Plans, Phone & Device, Contact & Support, Cart, My Account
+
+1.3
+-PHONE AND DEVICES PAGE 
+--Shop sidebar component to select catorgy of electronics availbble 
+--Filter side bar component for filtering through items Added
+--List of phones added to inventory by Brand, Model and Price
+
+-PLANS
+--Gride of T-Mobile plans added including prices and features
+--Image Card Component advistising deals and plan T-mobile offer Added
