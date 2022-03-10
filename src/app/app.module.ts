@@ -13,6 +13,8 @@ import { PhonesComponent } from './Body/Pages/Phones/phones.component';
 import { CartComponent } from './Body/Pages/Deals/cart.component';
 import { SupportComponent } from './Body/Pages/Support/support.component';
 import { LoginComponent } from './Body/Pages/Login/login.component';
+import { HttpClientModule } from '@angular/common/http';
+import { UserInfoComponent } from './user-info/user-info.component';
 
 @NgModule({
   declarations: [
@@ -26,11 +28,14 @@ import { LoginComponent } from './Body/Pages/Login/login.component';
     PhonesComponent,
     CartComponent,
     SupportComponent,
-    LoginComponent
+    LoginComponent,
+    UserInfoComponent
+
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

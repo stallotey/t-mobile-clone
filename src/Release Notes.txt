@@ -13,3 +13,9 @@
 -PLANS
 --Gride of T-Mobile plans added including prices and features
 --Image Card Component advistising deals and plan T-mobile offer Added
+
+1.4
+-Backend/Firebase
+--List of products added to Backend and routed to "Phones" page
+--HTTP Client configured
+

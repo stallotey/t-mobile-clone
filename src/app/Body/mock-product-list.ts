@@ -15,7 +15,7 @@ export const mock_product_list = [
     {
         img: "/assets/Phones/Apple/iphone-13-pro-max.jpeg",
         brand: "Apple",
-        model: "iPhone 12 Pro Max",
+        model: "iPhone 13 Pro Max",
         price: 1099.99
     },
     {
