@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { mock_product_list } from './Body/mock-product-list';
 import { ProductItemModel } from './Body/product-item-model';
+import {AngularFirestore} from '@angular/fire/firestore';
 
 @Component({
   selector: 'app-root',

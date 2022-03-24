@@ -7,14 +7,16 @@ import { PhonesComponent } from './Body/Pages/Phones/phones.component';
 import { CartComponent } from './Body/Pages/Deals/cart.component';
 import { SupportComponent } from './Body/Pages/Support/support.component';
 import { LoginComponent } from './Body/Pages/Login/login.component';
+import { AddProductComponent } from './Body/Pages/Phones/add-product/add-product.component';
 
 const routes: Routes = [
-  { path: 'Plans', component: PlansComponent },
-  {path: 'Home', component:HomeLayoutComponent},
-  {path: 'Phones', component:PhonesComponent},
-  {path: 'Cart', component:CartComponent},
-  {path: 'Support', component:SupportComponent},
-  {path: 'Login',component:LoginComponent}
+  { path: 'plans', component: PlansComponent },
+  {path: 'home', component:HomeLayoutComponent},
+  {path: 'phones', component:PhonesComponent},
+  {path: 'cart', component:CartComponent},
+  {path: 'support', component:SupportComponent},
+  {path: 'login',component:LoginComponent},
+  {path: 'admin',component:AddProductComponent}
 ];
 
 @NgModule({
